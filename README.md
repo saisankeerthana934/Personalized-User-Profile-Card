@@ -26,9 +26,3 @@ A responsive and interactive user profile card built using **HTML**, **CSS**, an
 
 ---
 
-## 📂 Folder Structure
-
-├── index.html # Main HTML file
-├── style.css # Custom styles
-├── script.js # JavaScript functionality
-└── README.md # Project overview
